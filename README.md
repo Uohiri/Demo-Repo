@@ -1,3 +1,3 @@
 # Demo GitHub Training
 
-for training purpose !!
+for training purpose..
